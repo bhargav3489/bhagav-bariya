@@ -1,4 +1,4 @@
 # bhagav-bariya
 This is  my first Git Repository.
 <br>
-Auther - bhargav bariya
+Auther - bhargav bariya(B.B)
